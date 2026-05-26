@@ -1,13 +1,12 @@
 export const personal = {
-  name: 'Your Name',
+  name: 'Michael Miller',
   title: 'AI Engineer & Cloud Architect',
   tagline: 'Building Intelligent Enterprise Systems at Scale',
-  bio: `Senior AI Engineer and Cloud Architect with deep expertise in enterprise AI systems, cloud infrastructure, and intelligent automation. I design and build AI-powered platforms that solve real business problems — from RAG-powered search systems and AI agents to large-scale cloud migrations and enterprise analytics.`,
+  bio: `AI Engineer and Cloud Architect based in Raleigh, NC. I design and ship production AI systems — RAG pipelines, LLM agents, and cloud infrastructure — that solve real enterprise problems and deliver measurable ROI. I've led migrations of 200+ workloads to Azure, built chatbot platforms serving 500+ users, and automated workflows saving thousands of hours annually.`,
   location: 'Raleigh, NC',
-  email: 'hello@yourportfolio.com',
-  github: 'https://github.com/yourusername',
-  linkedin: 'https://linkedin.com/in/yourusername',
-  calendly: 'https://calendly.com/yourusername',
+  email: 'mmillertechnologies@gmail.com',
+  github: 'https://github.com/mmillertechnologies-oss',
+  linkedin: 'https://linkedin.com/in/michael-miller',
   resumeUrl: '/resume.pdf',
 }
 
@@ -161,26 +160,26 @@ export const skills = {
 export const experience = [
   {
     role: 'Senior AI Engineer',
-    company: 'Enterprise Technology Co.',
+    company: 'Miller Technologies',
     period: '2023 – Present',
-    description: 'Leading AI initiative across enterprise, architecting LLM-powered platforms and automation systems.',
+    description: 'Leading AI engineering for enterprise clients — architecting LLM platforms, RAG systems, and intelligent automation.',
     highlights: ['Built RAG chatbot serving 500+ users', 'Led 5-person AI engineering team', 'Delivered $2M+ in measurable ROI'],
     tech: ['Azure OpenAI', 'LangChain', 'Python', 'Next.js'],
   },
   {
     role: 'Cloud Architect',
-    company: 'Technology Solutions Group',
+    company: 'Independent Consulting',
     period: '2021 – 2023',
-    description: 'Architected and executed enterprise cloud migrations and infrastructure modernization programs.',
-    highlights: ['Migrated 200+ workloads to Azure', '40% cost reduction', 'Zero downtime SLA maintained'],
+    description: 'Architected and executed enterprise cloud migrations and infrastructure modernization for mid-market and enterprise clients.',
+    highlights: ['Migrated 200+ workloads to Azure', '40% infrastructure cost reduction', 'Zero downtime SLA maintained'],
     tech: ['Azure', 'Terraform', 'PowerShell', 'DevOps'],
   },
   {
     role: 'Systems Engineer',
-    company: 'Regional Enterprise',
+    company: 'Independent Consulting',
     period: '2019 – 2021',
-    description: 'Built enterprise reporting systems, automated workflows, and integrated SaaS platforms.',
-    highlights: ['Built Power BI analytics platform', 'Automated 40+ manual processes', 'Salesforce CRM integration'],
+    description: 'Built enterprise reporting systems, automated workflows, and integrated SaaS platforms for regional organizations.',
+    highlights: ['Built Power BI analytics platform for C-suite', 'Automated 40+ manual processes', 'Salesforce CRM integration'],
     tech: ['Power BI', 'SQL', 'PowerShell', 'Salesforce'],
   },
 ]
