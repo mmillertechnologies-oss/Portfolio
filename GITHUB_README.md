@@ -63,10 +63,14 @@ Hybrid semantic + BM25 search API. Dense embeddings fused with sparse retrieval 
 ## Certifications
 
 - ✅ **AZ-900** — Microsoft Azure Fundamentals
+- ✅ **SAA-C03** — AWS Solutions Architect Associate
 - ✅ **PowerScale Advanced Administrator** — Dell
 - ✅ **IQ4 Cyber Security**
-- 🔄 **AZ-104** — Azure Administrator *(In Progress)*
+- ✅ **Databricks AI Agent Fundamentals**
+- ✅ **Databricks Fundamentals**
+- ✅ **Generative AI Fundamentals** — Databricks
 - 🎯 **AZ-305** — Azure Solutions Architect Expert *(Planned)*
+- 🎯 **AWS ML Specialty** *(Planned)*
 
 ---
 

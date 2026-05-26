@@ -180,10 +180,14 @@ export const experience = [
 
 export const certifications = [
   { name: 'AZ-900', full: 'Azure Fundamentals', vendor: 'Microsoft', status: 'active', year: '2023', color: '#0078d4' },
+  { name: 'SAA-C03', full: 'AWS Solutions Architect Associate', vendor: 'Amazon', status: 'active', year: '2025', color: '#ff9900' },
   { name: 'PowerScale', full: 'PowerScale Advanced Administrator', vendor: 'Dell', status: 'active', year: '2024', color: '#007db8' },
   { name: 'IQ4', full: 'IQ4 Cyber Security', vendor: 'IQ4', status: 'active', year: '2023', color: '#e74c3c' },
-  { name: 'AZ-104', full: 'Azure Administrator', vendor: 'Microsoft', status: 'in-progress', year: '2025', color: '#0078d4' },
+  { name: 'DB-Agents', full: 'Databricks AI Agent Fundamentals', vendor: 'Databricks', status: 'active', year: '2025', color: '#ff3621' },
+  { name: 'DB-Fund', full: 'Databricks Fundamentals', vendor: 'Databricks', status: 'active', year: '2025', color: '#ff3621' },
+  { name: 'GenAI-Fund', full: 'Generative AI Fundamentals', vendor: 'Databricks', status: 'active', year: '2025', color: '#ff3621' },
   { name: 'AZ-305', full: 'Azure Solutions Architect Expert', vendor: 'Microsoft', status: 'planned', year: '2025', color: '#0078d4' },
+  { name: 'AWS-MLS', full: 'AWS Machine Learning Specialty', vendor: 'Amazon', status: 'planned', year: '2026', color: '#ff9900' },
 ]
 
 export const blogPosts: never[] = []
